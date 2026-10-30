@@ -120,30 +120,30 @@ The OpenLaws Legal Data API exposes statutes, regulations, constitutions, and ca
 
 #### Properties
 
-- [Documentation](https://openlaws.apidocumentation.com)
+- [Documentation](https://docs.openlaws.us)
 - [Human U R L](https://openlaws.us/api/)
-- [Getting Started](https://openlaws.apidocumentation.com/guide/openlaws-legal-data-api)
-- [Sign Up](https://1be187uhimk.typeform.com/to/PwYQaCu4)
-- [Changelog](https://openlaws.apidocumentation.com/guide/release-notes)
+- [Getting Started](https://docs.openlaws.us/development-guide/openlaws-legal-data-api)
+- [Sign Up](https://openlaws.us/api/)
+- [Changelog](https://docs.openlaws.us/development-guide/release-notes)
 - [Terms of Service](https://openlaws.us/terms)
 - [OpenAPI](openapi/openlaws-openapi.yml) — [OpenAPI Specification](https://spec.openapis.org/oas/latest.html)
 - [Postman Collection](collections/openlaws.postman_collection.json) — [Postman Collection 2.1](https://schema.getpostman.com/json/collection/v2.1.0/collection.json)
 - [Open Collection](collections/openlaws.opencollection.json) — [Open Collection 1.0](https://schema.opencollection.com/opencollection/v1.0.0.json)
 - [OpenAPI](openapi/openlaws-openapi.json) — [OpenAPI Specification](https://spec.openapis.org/oas/latest.html)
-- [Plan](plans/openlaws-plans-pricing.yml)
+- [Plan](https://openlaws.us/pricing)
 - [Rate  Limit](rate-limits/openlaws-rate-limits.yml)
 - [Fin Ops](finops/openlaws-finops.yml)
 
 ## Common Properties
 
 - [Website](https://openlaws.us/)
-- [Documentation](https://openlaws.apidocumentation.com)
-- [Getting Started](https://openlaws.apidocumentation.com/guide/openlaws-legal-data-api)
-- [Sign Up](https://1be187uhimk.typeform.com/to/PwYQaCu4)
-- [Changelog](https://openlaws.apidocumentation.com/guide/release-notes)
+- [Documentation](https://docs.openlaws.us)
+- [Getting Started](https://docs.openlaws.us/development-guide/openlaws-legal-data-api)
+- [Sign Up](https://openlaws.us/api/)
+- [Changelog](https://docs.openlaws.us/development-guide/release-notes)
 - [Terms of Service](https://openlaws.us/terms)
 - [Contact Email](mailto:team@openlaws.us)
-- [Plan](plans/openlaws-plans-pricing.yml)
+- [Plan](https://openlaws.us/pricing)
 - [Rate  Limit](rate-limits/openlaws-rate-limits.yml)
 - [Fin Ops](finops/openlaws-finops.yml)
 
